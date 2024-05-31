@@ -1,7 +1,7 @@
 import streamlit as st
 import string
 import random
-import pyperclip
+
 
 
 def generar(long, dig=False, upp=False, punct=False):
